@@ -29,7 +29,7 @@ A lightweight Ubuntu 20.04 virtual machine running in a Docker container using Q
 
 ```bash
 # Clone the repository
-git clone https://github.com/mrsdbd1
+git clone https://github.com/mrsdbd1/virtual-VM
 cd virtual-VM
 
 # Build the Docker image
